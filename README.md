@@ -60,4 +60,4 @@ Key    Value
 foo    world
 ```
 10. Install HVAC with `pip install hvac`. HVAC is the Hashicorp Vault API Client used to communicate with the vault server.
-11. 
+11. See python scripts for CRUD.
